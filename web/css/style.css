@@ -1,5 +1,6 @@
 body {
     background-image: url('../img/background.svg');
+    background-position-x: center;
     font-size: 150%;
     font-family: sans-serif;
 }
